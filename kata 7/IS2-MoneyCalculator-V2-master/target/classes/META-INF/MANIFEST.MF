@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: software.ulpgc.moneycalculatorv2.apps.windows.Main
+
